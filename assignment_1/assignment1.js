@@ -3,7 +3,7 @@ Exercise #1
 Initialize an empty array below in the variable numbers.
 */
 var numbers;
-
+<h1>Hello, World</h1>
 
 /*
 Exercise #2
