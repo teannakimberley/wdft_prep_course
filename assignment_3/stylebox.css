@@ -1,0 +1,52 @@
+
+span 
+{
+	display: inline-block;
+	background-color: red;
+	border: 1px;
+	width:150px;
+	height:150px;
+	padding: 0px;
+	margin: 0px;
+}
+
+body
+{
+	height: 1000px; 
+}
+
+div
+{
+	height: 135px;
+	margin: 20px;
+}
+
+
+.a1 {
+}
+
+.b1 {
+}
+
+.c1 {
+}
+
+
+.a2 {
+}
+
+.b2 {
+}
+
+.c2 {
+}
+
+
+.a3 {
+}
+
+.b3 {
+}
+
+.c3 {
+}
