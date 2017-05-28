@@ -1,0 +1,31 @@
+span 
+{
+	display: inline-block;
+	background-color: orange;
+	border: 1px solid black;
+	width:100px;
+	height:100px;
+	padding: 0px;
+	margin: 0px;
+}
+
+body
+{
+	height: 10000px; /* this is just to make sure you can scroll */
+}
+
+div
+{
+	height: 200px;
+	border: 5px solid blue;
+	margin: 10px;
+}
+h1 {
+    font-size: 100pt;
+    font-weight: bold;
+    color: red;
+}
+
+.red {
+    color: red;
+}

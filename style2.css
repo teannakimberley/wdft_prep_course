@@ -1,0 +1,12 @@
+
+
+body
+{
+	height: 1000px; 
+}
+img {
+	border-width: 13px;
+	border-color: lightgrey;
+	border-style: solid;
+}
+
